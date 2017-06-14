@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <UserSecretsId>aspnet-RestourantBackend-BF052BE6-71D0-4C55-8F71-3A16076C751B</UserSecretsId>
+    <AssemblyName>RestaurantAPI</AssemblyName>
+    <RootNamespace>RestaurantAPI</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
