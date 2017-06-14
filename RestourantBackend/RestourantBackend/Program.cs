@@ -21,5 +21,6 @@ namespace RestaurantAPI
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+
     }
 }
